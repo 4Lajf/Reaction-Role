@@ -1,0 +1,90 @@
+[1.3 @ 14:55:1] [AntiCrash] :: Unhandled Rejection/Catch
+[REASON]TypeError: messageLink.match is not a function
+
+[1.3 @ 14:55:15] [AntiCrash] :: Unhandled Rejection/Catch
+[REASON]TypeError: messageLink.match is not a function
+
+[1.10 @ 11:50:22] [AntiCrash] :: Unhandled Rejection/Catch
+[REASON]SyntaxError: Identifier 'messageLink' has already been declared
+[1.10 @ 11:53:26] [AntiCrash] :: Unhandled Rejection/Catch
+[REASON]ReferenceError: commandChanne is not defined
+[1.10 @ 11:57:2] [AntiCrash] :: Unhandled Rejection/Catch
+[REASON]TypeError: Cannot read property 'send' of undefined
+[1.10 @ 11:57:38] [AntiCrash] :: Unhandled Rejection/Catch
+[REASON]Error: connect ECONNREFUSED 127.0.0.1:3306
+[1.10 @ 11:58:37] [AntiCrash] :: Unhandled Rejection/Catch
+[REASON]Error: connect ECONNREFUSED 127.0.0.1:3306
+[1.10 @ 11:58:57] [AntiCrash] :: Unhandled Rejection/Catch
+[REASON]ReferenceError: getDate is not defined
+[1.10 @ 11:59:37] [AntiCrash] :: Unhandled Rejection/Catch
+[REASON]Error: connect ECONNREFUSED 127.0.0.1:3306
+[1.10 @ 12:0:37] [AntiCrash] :: Unhandled Rejection/Catch
+[REASON]Error: connect ECONNREFUSED 127.0.0.1:3306
+[1.10 @ 12:1:37] [AntiCrash] :: Unhandled Rejection/Catch
+[REASON]Error: connect ECONNREFUSED 127.0.0.1:3306
+[1.10 @ 12:2:37] [AntiCrash] :: Unhandled Rejection/Catch
+[REASON]Error: connect ECONNREFUSED 127.0.0.1:3306
+[1.10 @ 12:3:37] [AntiCrash] :: Unhandled Rejection/Catch
+[REASON]Error: connect ECONNREFUSED 127.0.0.1:3306
+[1.10 @ 12:4:37] [AntiCrash] :: Unhandled Rejection/Catch
+[REASON]Error: connect ECONNREFUSED 127.0.0.1:3306
+[1.10 @ 12:5:37] [AntiCrash] :: Unhandled Rejection/Catch
+[REASON]Error: connect ECONNREFUSED 127.0.0.1:3306
+[1.10 @ 12:6:37] [AntiCrash] :: Unhandled Rejection/Catch
+[REASON]Error: connect ECONNREFUSED 127.0.0.1:3306
+[1.10 @ 12:8:12] [AntiCrash] :: Unhandled Rejection/Catch
+[REASON]TypeError: Cannot read property 'permissions' of undefined
+[1.10 @ 12:15:42] [AntiCrash] :: Unhandled Rejection/Catch
+[REASON]ReferenceError: commandChanne is not defined
+[1.10 @ 12:16:56] [AntiCrash] :: Unhandled Rejection/Catch
+[REASON]Error [INTERACTION_ALREADY_REPLIED]: The reply to this interaction has already been sent or deferred.
+[1.10 @ 12:20:53] [AntiCrash] :: Unhandled Rejection/Catch
+[REASON]ReferenceError: botMember is not defined
+[1.10 @ 12:21:50] [AntiCrash] :: Unhandled Rejection/Catch
+[REASON]ReferenceError: getPreview is not defined
+[1.10 @ 12:22:41] [AntiCrash] :: Unhandled Rejection/Catch
+[REASON]ReferenceError: msgContent is not defined
+[1.10 @ 12:23:14] [AntiCrash] :: Unhandled Rejection/Catch
+[REASON]DiscordAPIError: Unknown interaction
+[1.10 @ 12:23:19] [AntiCrash] :: Unhandled Rejection/Catch
+[REASON]DiscordAPIError: Unknown interaction
+[1.10 @ 12:23:28] [AntiCrash] :: Unhandled Rejection/Catch
+[REASON]DiscordAPIError: Unknown interaction
+[1.10 @ 12:24:14] [AntiCrash] :: Unhandled Rejection/Catch
+[REASON]DiscordAPIError: Unknown interaction
+[1.10 @ 12:24:19] [AntiCrash] :: Unhandled Rejection/Catch
+[REASON]DiscordAPIError: Unknown interaction
+[1.10 @ 12:26:6] [AntiCrash] :: Unhandled Rejection/Catch
+[REASON]Error [INTERACTION_ALREADY_REPLIED]: The reply to this interaction has already been sent or deferred.
+[1.10 @ 12:43:9] [AntiCrash] :: Unhandled Rejection/Catch
+[REASON]Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'c' at line 1
+[1.13 @ 1:8:12] [AntiCrash] :: Unhandled Rejection/Catch
+[REASON]Error: Cannot find module './types/standard'
+Require stack:
+- D:\.Dokumenty\DBM\Reaction Role\node_modules\mime\index.js
+- D:\.Dokumenty\DBM\Reaction Role\node_modules\superagent\lib\node\index.js
+- D:\.Dokumenty\DBM\Reaction Role\node_modules\spotify-web-api-node\src\http-manager.js
+- D:\.Dokumenty\DBM\Reaction Role\node_modules\spotify-web-api-node\src\spotify-web-api.js
+- D:\.Dokumenty\DBM\Reaction Role\node_modules\spotify-web-api-node\src\server.js
+- D:\.Dokumenty\DBM\Reaction Role\commands\yt.js
+- D:\.Dokumenty\DBM\Reaction Role\node_modules\wokcommands\dist\CommandHandler.js
+- D:\.Dokumenty\DBM\Reaction Role\node_modules\wokcommands\dist\index.js
+- D:\.Dokumenty\DBM\Reaction Role\reactionrole.js
+[1.13 @ 1:37:50] [AntiCrash] :: Unhandled Rejection/Catch
+[REASON]Error: Too many connections
+[1.13 @ 1:37:57] [AntiCrash] :: Unhandled Rejection/Catch
+[REASON]Error: Too many connections
+[1.13 @ 1:38:4] [AntiCrash] :: Unhandled Rejection/Catch
+[REASON]Error: Too many connections
+[1.13 @ 1:38:17] [AntiCrash] :: Unhandled Rejection/Catch
+[REASON]Error: Too many connections
+[1.13 @ 1:38:28] [AntiCrash] :: Unhandled Rejection/Catch
+[REASON]Error: Too many connections
+[1.13 @ 1:39:17] [AntiCrash] :: Unhandled Rejection/Catch
+[REASON]Error: Too many connections
+[1.13 @ 1:40:17] [AntiCrash] :: Unhandled Rejection/Catch
+[REASON]Error: Too many connections
+[1.13 @ 1:40:46] [AntiCrash] :: Unhandled Rejection/Catch
+[REASON]Error: Too many connections
+[1.13 @ 1:40:52] [AntiCrash] :: Unhandled Rejection/Catch
+[REASON]Error: Too many connections

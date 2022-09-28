@@ -1,0 +1,857 @@
+[1.3 @ 15:5:49] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.3 @ 15:5:49] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 100ms.
+[1.3 @ 15:6:30] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.3 @ 15:6:30] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 108ms.
+[1.3 @ 15:7:12] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.3 @ 15:7:12] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 113ms.
+[1.10 @ 11:50:14] [DEBUG]Provided token: NTc5MDM2ODgzNjc0MzMzMTg1.XN8UHw.***************************
+[1.10 @ 11:50:14] [DEBUG]Preparing to connect to the gateway...
+[1.10 @ 11:50:15] [DEBUG][WS => Manager] Fetched Gateway Information
+    URL: wss://gateway.discord.gg
+    Recommended Shards: 1
+[1.10 @ 11:50:15] [DEBUG][WS => Manager] Session Limit Information
+    Total: 1000
+    Remaining: 1000
+[1.10 @ 11:50:15] [DEBUG][WS => Manager] Spawning shards: 0
+[1.10 @ 11:50:15] [DEBUG][WS => Shard 0] [CONNECT]
+    Gateway    : wss://gateway.discord.gg/
+    Version    : 9
+    Encoding   : json
+    Compression: none
+[1.10 @ 11:50:15] [DEBUG][WS => Shard 0] Setting a HELLO timeout for 20s.
+[1.10 @ 11:50:15] [DEBUG][WS => Shard 0] [CONNECTED] Took 208ms
+[1.10 @ 11:50:15] [DEBUG][WS => Shard 0] Clearing the HELLO timeout.
+[1.10 @ 11:50:15] [DEBUG][WS => Shard 0] Setting a heartbeat interval for 41250ms.
+[1.10 @ 11:50:15] [DEBUG][WS => Shard 0] [IDENTIFY] Shard 0/1 with intents: 1539
+[1.10 @ 11:50:15] [DEBUG][WS => Shard 0] [READY] Session 1fb4ce8256e2e1f735524c98e0e5508f.
+[1.10 @ 11:50:15] [DEBUG][WS => Shard 0] [ReadyHeartbeat] Sending a heartbeat.
+[1.10 @ 11:50:15] [DEBUG][WS => Shard 0] Shard received all its guilds. Marking as fully ready.
+[1.10 @ 11:52:42] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 822ms.
+[1.10 @ 11:53:22] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 11:53:22] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 128ms.
+[1.10 @ 11:56:36] [DEBUG]Provided token: NTc5MDM2ODgzNjc0MzMzMTg1.XN8UHw.***************************
+[1.10 @ 11:56:36] [DEBUG]Preparing to connect to the gateway...
+[1.10 @ 11:56:37] [DEBUG][WS => Manager] Fetched Gateway Information
+    URL: wss://gateway.discord.gg
+    Recommended Shards: 1
+[1.10 @ 11:56:37] [DEBUG][WS => Manager] Session Limit Information
+    Total: 1000
+    Remaining: 998
+[1.10 @ 11:56:37] [DEBUG][WS => Manager] Spawning shards: 0
+[1.10 @ 11:56:37] [DEBUG][WS => Shard 0] [CONNECT]
+    Gateway    : wss://gateway.discord.gg/
+    Version    : 9
+    Encoding   : json
+    Compression: none
+[1.10 @ 11:56:37] [DEBUG][WS => Shard 0] Setting a HELLO timeout for 20s.
+[1.10 @ 11:56:37] [DEBUG][WS => Shard 0] [CONNECTED] Took 197ms
+[1.10 @ 11:56:37] [DEBUG][WS => Shard 0] Clearing the HELLO timeout.
+[1.10 @ 11:56:37] [DEBUG][WS => Shard 0] Setting a heartbeat interval for 41250ms.
+[1.10 @ 11:56:37] [DEBUG][WS => Shard 0] [IDENTIFY] Shard 0/1 with intents: 1539
+[1.10 @ 11:56:37] [DEBUG][WS => Shard 0] [READY] Session 93bb2ae886c1d15f5a237f1d3419cdd5.
+[1.10 @ 11:56:37] [DEBUG][WS => Shard 0] [ReadyHeartbeat] Sending a heartbeat.
+[1.10 @ 11:56:37] [DEBUG][WS => Shard 0] Shard received all its guilds. Marking as fully ready.
+[1.10 @ 11:56:37] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 178ms.
+[1.10 @ 11:57:18] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 11:57:18] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 125ms.
+[1.10 @ 11:57:59] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 11:57:59] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 126ms.
+[1.10 @ 11:58:41] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 11:58:41] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 125ms.
+[1.10 @ 11:59:22] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 11:59:22] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 172ms.
+[1.10 @ 12:0:3] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 12:0:3] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 133ms.
+[1.10 @ 12:0:44] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 12:0:44] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 132ms.
+[1.10 @ 12:1:26] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 12:1:26] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 124ms.
+[1.10 @ 12:2:7] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 12:2:7] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 130ms.
+[1.10 @ 12:2:48] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 12:2:48] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 132ms.
+[1.10 @ 12:3:29] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 12:3:30] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 124ms.
+[1.10 @ 12:4:11] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 12:4:11] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 131ms.
+[1.10 @ 12:4:52] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 12:4:52] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 156ms.
+[1.10 @ 12:5:33] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 12:5:33] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 124ms.
+[1.10 @ 12:6:14] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 12:6:15] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 123ms.
+[1.10 @ 12:6:56] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 12:6:56] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 123ms.
+[1.10 @ 12:7:52] [DEBUG]Provided token: NTc5MDM2ODgzNjc0MzMzMTg1.XN8UHw.***************************
+[1.10 @ 12:7:52] [DEBUG]Preparing to connect to the gateway...
+[1.10 @ 12:7:52] [DEBUG][WS => Manager] Fetched Gateway Information
+    URL: wss://gateway.discord.gg
+    Recommended Shards: 1
+[1.10 @ 12:7:52] [DEBUG][WS => Manager] Session Limit Information
+    Total: 1000
+    Remaining: 997
+[1.10 @ 12:7:52] [DEBUG][WS => Manager] Spawning shards: 0
+[1.10 @ 12:7:52] [DEBUG][WS => Shard 0] [CONNECT]
+    Gateway    : wss://gateway.discord.gg/
+    Version    : 9
+    Encoding   : json
+    Compression: none
+[1.10 @ 12:7:52] [DEBUG][WS => Shard 0] Setting a HELLO timeout for 20s.
+[1.10 @ 12:7:53] [DEBUG][WS => Shard 0] [CONNECTED] Took 212ms
+[1.10 @ 12:7:53] [DEBUG][WS => Shard 0] Clearing the HELLO timeout.
+[1.10 @ 12:7:53] [DEBUG][WS => Shard 0] Setting a heartbeat interval for 41250ms.
+[1.10 @ 12:7:53] [DEBUG][WS => Shard 0] [IDENTIFY] Shard 0/1 with intents: 1539
+[1.10 @ 12:7:53] [DEBUG][WS => Shard 0] [READY] Session 24519b1f2595d00200582f81e98ea125.
+[1.10 @ 12:7:53] [DEBUG][WS => Shard 0] [ReadyHeartbeat] Sending a heartbeat.
+[1.10 @ 12:7:53] [DEBUG][WS => Shard 0] Shard received all its guilds. Marking as fully ready.
+[1.10 @ 12:7:54] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 805ms.
+[1.10 @ 12:8:34] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 12:8:34] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 131ms.
+[1.10 @ 12:8:48] [DEBUG]Provided token: NTc5MDM2ODgzNjc0MzMzMTg1.XN8UHw.***************************
+[1.10 @ 12:8:48] [DEBUG]Preparing to connect to the gateway...
+[1.10 @ 12:8:48] [DEBUG][WS => Manager] Fetched Gateway Information
+    URL: wss://gateway.discord.gg
+    Recommended Shards: 1
+[1.10 @ 12:8:48] [DEBUG][WS => Manager] Session Limit Information
+    Total: 1000
+    Remaining: 996
+[1.10 @ 12:8:48] [DEBUG][WS => Manager] Spawning shards: 0
+[1.10 @ 12:8:48] [DEBUG][WS => Shard 0] [CONNECT]
+    Gateway    : wss://gateway.discord.gg/
+    Version    : 9
+    Encoding   : json
+    Compression: none
+[1.10 @ 12:8:48] [DEBUG][WS => Shard 0] Setting a HELLO timeout for 20s.
+[1.10 @ 12:8:49] [DEBUG][WS => Shard 0] [CONNECTED] Took 176ms
+[1.10 @ 12:8:49] [DEBUG][WS => Shard 0] Clearing the HELLO timeout.
+[1.10 @ 12:8:49] [DEBUG][WS => Shard 0] Setting a heartbeat interval for 41250ms.
+[1.10 @ 12:8:49] [DEBUG][WS => Shard 0] [IDENTIFY] Shard 0/1 with intents: 1539
+[1.10 @ 12:8:49] [DEBUG][WS => Shard 0] [READY] Session 4491450d10373f7e511c30bd2e9aaa85.
+[1.10 @ 12:8:49] [DEBUG][WS => Shard 0] [ReadyHeartbeat] Sending a heartbeat.
+[1.10 @ 12:8:49] [DEBUG][WS => Shard 0] Shard received all its guilds. Marking as fully ready.
+[1.10 @ 12:8:49] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 165ms.
+[1.10 @ 12:9:30] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 12:9:30] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 132ms.
+[1.10 @ 12:14:57] [DEBUG]Provided token: NTc5MDM2ODgzNjc0MzMzMTg1.XN8UHw.***************************
+[1.10 @ 12:14:57] [DEBUG]Preparing to connect to the gateway...
+[1.10 @ 12:14:58] [DEBUG][WS => Manager] Fetched Gateway Information
+    URL: wss://gateway.discord.gg
+    Recommended Shards: 1
+[1.10 @ 12:14:58] [DEBUG][WS => Manager] Session Limit Information
+    Total: 1000
+    Remaining: 995
+[1.10 @ 12:14:58] [DEBUG][WS => Manager] Spawning shards: 0
+[1.10 @ 12:14:58] [DEBUG][WS => Shard 0] [CONNECT]
+    Gateway    : wss://gateway.discord.gg/
+    Version    : 9
+    Encoding   : json
+    Compression: none
+[1.10 @ 12:14:58] [DEBUG][WS => Shard 0] Setting a HELLO timeout for 20s.
+[1.10 @ 12:14:58] [DEBUG][WS => Shard 0] [CONNECTED] Took 187ms
+[1.10 @ 12:14:58] [DEBUG][WS => Shard 0] Clearing the HELLO timeout.
+[1.10 @ 12:14:58] [DEBUG][WS => Shard 0] Setting a heartbeat interval for 41250ms.
+[1.10 @ 12:14:58] [DEBUG][WS => Shard 0] [IDENTIFY] Shard 0/1 with intents: 1539
+[1.10 @ 12:14:58] [DEBUG][WS => Shard 0] [READY] Session e9963eaaa0dc83aaa9c1d43b80a20f6c.
+[1.10 @ 12:14:58] [DEBUG][WS => Shard 0] [ReadyHeartbeat] Sending a heartbeat.
+[1.10 @ 12:14:58] [DEBUG][WS => Shard 0] Shard received all its guilds. Marking as fully ready.
+[1.10 @ 12:14:58] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 171ms.
+[1.10 @ 12:15:39] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 12:15:39] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 123ms.
+[1.10 @ 12:16:20] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 12:16:21] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 127ms.
+[1.10 @ 12:16:45] [DEBUG]Provided token: NTc5MDM2ODgzNjc0MzMzMTg1.XN8UHw.***************************
+[1.10 @ 12:16:45] [DEBUG]Preparing to connect to the gateway...
+[1.10 @ 12:16:45] [DEBUG][WS => Manager] Fetched Gateway Information
+    URL: wss://gateway.discord.gg
+    Recommended Shards: 1
+[1.10 @ 12:16:45] [DEBUG][WS => Manager] Session Limit Information
+    Total: 1000
+    Remaining: 994
+[1.10 @ 12:16:45] [DEBUG][WS => Manager] Spawning shards: 0
+[1.10 @ 12:16:45] [DEBUG][WS => Shard 0] [CONNECT]
+    Gateway    : wss://gateway.discord.gg/
+    Version    : 9
+    Encoding   : json
+    Compression: none
+[1.10 @ 12:16:45] [DEBUG][WS => Shard 0] Setting a HELLO timeout for 20s.
+[1.10 @ 12:16:45] [DEBUG][WS => Shard 0] [CONNECTED] Took 212ms
+[1.10 @ 12:16:45] [DEBUG][WS => Shard 0] Clearing the HELLO timeout.
+[1.10 @ 12:16:45] [DEBUG][WS => Shard 0] Setting a heartbeat interval for 41250ms.
+[1.10 @ 12:16:45] [DEBUG][WS => Shard 0] [IDENTIFY] Shard 0/1 with intents: 1539
+[1.10 @ 12:16:45] [DEBUG][WS => Shard 0] [READY] Session 59b86cb2dd297936a14feadfccf42c89.
+[1.10 @ 12:16:45] [DEBUG][WS => Shard 0] [ReadyHeartbeat] Sending a heartbeat.
+[1.10 @ 12:16:46] [DEBUG][WS => Shard 0] Shard received all its guilds. Marking as fully ready.
+[1.10 @ 12:16:46] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 804ms.
+[1.10 @ 12:17:27] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 12:17:27] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 127ms.
+[1.10 @ 12:18:8] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 12:18:8] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 127ms.
+[1.10 @ 12:18:49] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 12:18:49] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 122ms.
+[1.10 @ 12:19:30] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 12:19:30] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 130ms.
+[1.10 @ 12:20:12] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 12:20:12] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 123ms.
+[1.10 @ 12:20:41] [DEBUG]Provided token: NTc5MDM2ODgzNjc0MzMzMTg1.XN8UHw.***************************
+[1.10 @ 12:20:41] [DEBUG]Preparing to connect to the gateway...
+[1.10 @ 12:20:41] [DEBUG][WS => Manager] Fetched Gateway Information
+    URL: wss://gateway.discord.gg
+    Recommended Shards: 1
+[1.10 @ 12:20:41] [DEBUG][WS => Manager] Session Limit Information
+    Total: 1000
+    Remaining: 993
+[1.10 @ 12:20:41] [DEBUG][WS => Manager] Spawning shards: 0
+[1.10 @ 12:20:41] [DEBUG][WS => Shard 0] [CONNECT]
+    Gateway    : wss://gateway.discord.gg/
+    Version    : 9
+    Encoding   : json
+    Compression: none
+[1.10 @ 12:20:41] [DEBUG][WS => Shard 0] Setting a HELLO timeout for 20s.
+[1.10 @ 12:20:42] [DEBUG][WS => Shard 0] [CONNECTED] Took 208ms
+[1.10 @ 12:20:42] [DEBUG][WS => Shard 0] Clearing the HELLO timeout.
+[1.10 @ 12:20:42] [DEBUG][WS => Shard 0] Setting a heartbeat interval for 41250ms.
+[1.10 @ 12:20:42] [DEBUG][WS => Shard 0] [IDENTIFY] Shard 0/1 with intents: 1539
+[1.10 @ 12:20:42] [DEBUG][WS => Shard 0] [READY] Session 8d1daabf960c6c1ac1344168a19c1baa.
+[1.10 @ 12:20:42] [DEBUG][WS => Shard 0] [ReadyHeartbeat] Sending a heartbeat.
+[1.10 @ 12:20:42] [DEBUG][WS => Shard 0] Shard received all its guilds. Marking as fully ready.
+[1.10 @ 12:20:42] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 418ms.
+[1.10 @ 12:21:23] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 12:21:23] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 129ms.
+[1.10 @ 12:21:33] [DEBUG]Provided token: NTc5MDM2ODgzNjc0MzMzMTg1.XN8UHw.***************************
+[1.10 @ 12:21:33] [DEBUG]Preparing to connect to the gateway...
+[1.10 @ 12:21:33] [DEBUG][WS => Manager] Fetched Gateway Information
+    URL: wss://gateway.discord.gg
+    Recommended Shards: 1
+[1.10 @ 12:21:33] [DEBUG][WS => Manager] Session Limit Information
+    Total: 1000
+    Remaining: 992
+[1.10 @ 12:21:33] [DEBUG][WS => Manager] Spawning shards: 0
+[1.10 @ 12:21:33] [DEBUG][WS => Shard 0] [CONNECT]
+    Gateway    : wss://gateway.discord.gg/
+    Version    : 9
+    Encoding   : json
+    Compression: none
+[1.10 @ 12:21:33] [DEBUG][WS => Shard 0] Setting a HELLO timeout for 20s.
+[1.10 @ 12:21:33] [DEBUG][WS => Shard 0] [CONNECTED] Took 168ms
+[1.10 @ 12:21:33] [DEBUG][WS => Shard 0] Clearing the HELLO timeout.
+[1.10 @ 12:21:33] [DEBUG][WS => Shard 0] Setting a heartbeat interval for 41250ms.
+[1.10 @ 12:21:33] [DEBUG][WS => Shard 0] [IDENTIFY] Shard 0/1 with intents: 1539
+[1.10 @ 12:21:33] [DEBUG][WS => Shard 0] [READY] Session 1edb5a2ae2d2503ac6c00a33ddd7b4e3.
+[1.10 @ 12:21:33] [DEBUG][WS => Shard 0] [ReadyHeartbeat] Sending a heartbeat.
+[1.10 @ 12:21:34] [DEBUG][WS => Shard 0] Shard received all its guilds. Marking as fully ready.
+[1.10 @ 12:21:34] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 800ms.
+[1.10 @ 12:22:14] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 12:22:15] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 165ms.
+[1.10 @ 12:22:28] [DEBUG]Provided token: NTc5MDM2ODgzNjc0MzMzMTg1.XN8UHw.***************************
+[1.10 @ 12:22:28] [DEBUG]Preparing to connect to the gateway...
+[1.10 @ 12:22:28] [DEBUG][WS => Manager] Fetched Gateway Information
+    URL: wss://gateway.discord.gg
+    Recommended Shards: 1
+[1.10 @ 12:22:28] [DEBUG][WS => Manager] Session Limit Information
+    Total: 1000
+    Remaining: 991
+[1.10 @ 12:22:28] [DEBUG][WS => Manager] Spawning shards: 0
+[1.10 @ 12:22:28] [DEBUG][WS => Shard 0] [CONNECT]
+    Gateway    : wss://gateway.discord.gg/
+    Version    : 9
+    Encoding   : json
+    Compression: none
+[1.10 @ 12:22:28] [DEBUG][WS => Shard 0] Setting a HELLO timeout for 20s.
+[1.10 @ 12:22:28] [DEBUG][WS => Shard 0] [CONNECTED] Took 191ms
+[1.10 @ 12:22:28] [DEBUG][WS => Shard 0] Clearing the HELLO timeout.
+[1.10 @ 12:22:28] [DEBUG][WS => Shard 0] Setting a heartbeat interval for 41250ms.
+[1.10 @ 12:22:28] [DEBUG][WS => Shard 0] [IDENTIFY] Shard 0/1 with intents: 1539
+[1.10 @ 12:22:29] [DEBUG][WS => Shard 0] [READY] Session dddb0a12f224b9b64a8aa764ae1c01f0.
+[1.10 @ 12:22:29] [DEBUG][WS => Shard 0] [ReadyHeartbeat] Sending a heartbeat.
+[1.10 @ 12:22:29] [DEBUG][WS => Shard 0] Shard received all its guilds. Marking as fully ready.
+[1.10 @ 12:22:30] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 957ms.
+[1.10 @ 12:23:5] [DEBUG]Provided token: NTc5MDM2ODgzNjc0MzMzMTg1.XN8UHw.***************************
+[1.10 @ 12:23:5] [DEBUG]Preparing to connect to the gateway...
+[1.10 @ 12:23:5] [DEBUG][WS => Manager] Fetched Gateway Information
+    URL: wss://gateway.discord.gg
+    Recommended Shards: 1
+[1.10 @ 12:23:5] [DEBUG][WS => Manager] Session Limit Information
+    Total: 1000
+    Remaining: 990
+[1.10 @ 12:23:5] [DEBUG][WS => Manager] Spawning shards: 0
+[1.10 @ 12:23:5] [DEBUG][WS => Shard 0] [CONNECT]
+    Gateway    : wss://gateway.discord.gg/
+    Version    : 9
+    Encoding   : json
+    Compression: none
+[1.10 @ 12:23:5] [DEBUG][WS => Shard 0] Setting a HELLO timeout for 20s.
+[1.10 @ 12:23:5] [DEBUG][WS => Shard 0] [CONNECTED] Took 217ms
+[1.10 @ 12:23:5] [DEBUG][WS => Shard 0] Clearing the HELLO timeout.
+[1.10 @ 12:23:5] [DEBUG][WS => Shard 0] Setting a heartbeat interval for 41250ms.
+[1.10 @ 12:23:5] [DEBUG][WS => Shard 0] [IDENTIFY] Shard 0/1 with intents: 1539
+[1.10 @ 12:23:5] [DEBUG][WS => Shard 0] [READY] Session 7138ec925eb6d8abd657d340e34d3185.
+[1.10 @ 12:23:5] [DEBUG][WS => Shard 0] [ReadyHeartbeat] Sending a heartbeat.
+[1.10 @ 12:23:6] [DEBUG][WS => Shard 0] Shard received all its guilds. Marking as fully ready.
+[1.10 @ 12:23:6] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 782ms.
+[1.10 @ 12:23:6] [DEBUG]Hit a 429 while executing a request.
+    Global  : false
+    Method  : post
+    Path    : /applications/859363046185893890/commands
+    Route   : /applications/:id/commands
+    Limit   : 5
+    Timeout : 4741ms
+    Sublimit: None
+[1.10 @ 12:23:53] [DEBUG]Provided token: NTc5MDM2ODgzNjc0MzMzMTg1.XN8UHw.***************************
+[1.10 @ 12:23:53] [DEBUG]Preparing to connect to the gateway...
+[1.10 @ 12:23:54] [DEBUG][WS => Manager] Fetched Gateway Information
+    URL: wss://gateway.discord.gg
+    Recommended Shards: 1
+[1.10 @ 12:23:54] [DEBUG][WS => Manager] Session Limit Information
+    Total: 1000
+    Remaining: 989
+[1.10 @ 12:23:54] [DEBUG][WS => Manager] Spawning shards: 0
+[1.10 @ 12:23:54] [DEBUG][WS => Shard 0] [CONNECT]
+    Gateway    : wss://gateway.discord.gg/
+    Version    : 9
+    Encoding   : json
+    Compression: none
+[1.10 @ 12:23:54] [DEBUG][WS => Shard 0] Setting a HELLO timeout for 20s.
+[1.10 @ 12:23:54] [DEBUG][WS => Shard 0] [CONNECTED] Took 219ms
+[1.10 @ 12:23:54] [DEBUG][WS => Shard 0] Clearing the HELLO timeout.
+[1.10 @ 12:23:54] [DEBUG][WS => Shard 0] Setting a heartbeat interval for 41250ms.
+[1.10 @ 12:23:54] [DEBUG][WS => Shard 0] [IDENTIFY] Shard 0/1 with intents: 1539
+[1.10 @ 12:23:54] [DEBUG][WS => Shard 0] [READY] Session ea408bbef83c65b259a68bb714fa8543.
+[1.10 @ 12:23:54] [DEBUG][WS => Shard 0] [ReadyHeartbeat] Sending a heartbeat.
+[1.10 @ 12:23:54] [DEBUG][WS => Shard 0] Shard received all its guilds. Marking as fully ready.
+[1.10 @ 12:23:55] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 859ms.
+[1.10 @ 12:24:35] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 12:24:35] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 156ms.
+[1.10 @ 12:25:16] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 12:25:16] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 140ms.
+[1.10 @ 12:25:46] [DEBUG]Provided token: NTc5MDM2ODgzNjc0MzMzMTg1.XN8UHw.***************************
+[1.10 @ 12:25:46] [DEBUG]Preparing to connect to the gateway...
+[1.10 @ 12:25:46] [DEBUG][WS => Manager] Fetched Gateway Information
+    URL: wss://gateway.discord.gg
+    Recommended Shards: 1
+[1.10 @ 12:25:46] [DEBUG][WS => Manager] Session Limit Information
+    Total: 1000
+    Remaining: 988
+[1.10 @ 12:25:46] [DEBUG][WS => Manager] Spawning shards: 0
+[1.10 @ 12:25:46] [DEBUG][WS => Shard 0] [CONNECT]
+    Gateway    : wss://gateway.discord.gg/
+    Version    : 9
+    Encoding   : json
+    Compression: none
+[1.10 @ 12:25:46] [DEBUG][WS => Shard 0] Setting a HELLO timeout for 20s.
+[1.10 @ 12:25:47] [DEBUG][WS => Shard 0] [CONNECTED] Took 178ms
+[1.10 @ 12:25:47] [DEBUG][WS => Shard 0] Clearing the HELLO timeout.
+[1.10 @ 12:25:47] [DEBUG][WS => Shard 0] Setting a heartbeat interval for 41250ms.
+[1.10 @ 12:25:47] [DEBUG][WS => Shard 0] [IDENTIFY] Shard 0/1 with intents: 1539
+[1.10 @ 12:25:47] [DEBUG][WS => Shard 0] [READY] Session 9bcc222aeded450c632462511ffb7364.
+[1.10 @ 12:25:47] [DEBUG][WS => Shard 0] [ReadyHeartbeat] Sending a heartbeat.
+[1.10 @ 12:25:47] [DEBUG][WS => Shard 0] Shard received all its guilds. Marking as fully ready.
+[1.10 @ 12:25:48] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 796ms.
+[1.10 @ 12:26:28] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 12:26:28] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 142ms.
+[1.10 @ 12:26:41] [DEBUG]Provided token: NTc5MDM2ODgzNjc0MzMzMTg1.XN8UHw.***************************
+[1.10 @ 12:26:41] [DEBUG]Preparing to connect to the gateway...
+[1.10 @ 12:26:41] [DEBUG][WS => Manager] Fetched Gateway Information
+    URL: wss://gateway.discord.gg
+    Recommended Shards: 1
+[1.10 @ 12:26:41] [DEBUG][WS => Manager] Session Limit Information
+    Total: 1000
+    Remaining: 987
+[1.10 @ 12:26:41] [DEBUG][WS => Manager] Spawning shards: 0
+[1.10 @ 12:26:41] [DEBUG][WS => Shard 0] [CONNECT]
+    Gateway    : wss://gateway.discord.gg/
+    Version    : 9
+    Encoding   : json
+    Compression: none
+[1.10 @ 12:26:41] [DEBUG][WS => Shard 0] Setting a HELLO timeout for 20s.
+[1.10 @ 12:26:41] [DEBUG][WS => Shard 0] [CONNECTED] Took 196ms
+[1.10 @ 12:26:41] [DEBUG][WS => Shard 0] Clearing the HELLO timeout.
+[1.10 @ 12:26:41] [DEBUG][WS => Shard 0] Setting a heartbeat interval for 41250ms.
+[1.10 @ 12:26:41] [DEBUG][WS => Shard 0] [IDENTIFY] Shard 0/1 with intents: 1539
+[1.10 @ 12:26:42] [DEBUG][WS => Shard 0] [READY] Session 98f01b5ce5484f37c229d5d22c6b29aa.
+[1.10 @ 12:26:42] [DEBUG][WS => Shard 0] [ReadyHeartbeat] Sending a heartbeat.
+[1.10 @ 12:26:42] [DEBUG][WS => Shard 0] Shard received all its guilds. Marking as fully ready.
+[1.10 @ 12:26:43] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 1104ms.
+[1.10 @ 12:27:23] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 12:27:23] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 129ms.
+[1.10 @ 12:42:5] [DEBUG]Provided token: NTc5MDM2ODgzNjc0MzMzMTg1.XN8UHw.***************************
+[1.10 @ 12:42:5] [DEBUG]Preparing to connect to the gateway...
+[1.10 @ 12:42:5] [DEBUG][WS => Manager] Fetched Gateway Information
+    URL: wss://gateway.discord.gg
+    Recommended Shards: 1
+[1.10 @ 12:42:5] [DEBUG][WS => Manager] Session Limit Information
+    Total: 1000
+    Remaining: 985
+[1.10 @ 12:42:5] [DEBUG][WS => Manager] Spawning shards: 0
+[1.10 @ 12:42:5] [DEBUG][WS => Shard 0] [CONNECT]
+    Gateway    : wss://gateway.discord.gg/
+    Version    : 9
+    Encoding   : json
+    Compression: none
+[1.10 @ 12:42:5] [DEBUG][WS => Shard 0] Setting a HELLO timeout for 20s.
+[1.10 @ 12:42:5] [DEBUG][WS => Shard 0] [CONNECTED] Took 184ms
+[1.10 @ 12:42:5] [DEBUG][WS => Shard 0] Clearing the HELLO timeout.
+[1.10 @ 12:42:5] [DEBUG][WS => Shard 0] Setting a heartbeat interval for 41250ms.
+[1.10 @ 12:42:5] [DEBUG][WS => Shard 0] [IDENTIFY] Shard 0/1 with intents: 1539
+[1.10 @ 12:42:5] [DEBUG][WS => Shard 0] [READY] Session 870aa04a252fbc04112d7118d61a872b.
+[1.10 @ 12:42:5] [DEBUG][WS => Shard 0] [ReadyHeartbeat] Sending a heartbeat.
+[1.10 @ 12:42:6] [DEBUG][WS => Shard 0] Shard received all its guilds. Marking as fully ready.
+[1.10 @ 12:42:6] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 157ms.
+[1.10 @ 12:42:47] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 12:42:47] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 182ms.
+[1.10 @ 12:43:28] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 12:43:28] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 133ms.
+[1.10 @ 12:43:37] [DEBUG]Provided token: NTc5MDM2ODgzNjc0MzMzMTg1.XN8UHw.***************************
+[1.10 @ 12:43:37] [DEBUG]Preparing to connect to the gateway...
+[1.10 @ 12:43:37] [DEBUG][WS => Manager] Fetched Gateway Information
+    URL: wss://gateway.discord.gg
+    Recommended Shards: 1
+[1.10 @ 12:43:37] [DEBUG][WS => Manager] Session Limit Information
+    Total: 1000
+    Remaining: 984
+[1.10 @ 12:43:37] [DEBUG][WS => Manager] Spawning shards: 0
+[1.10 @ 12:43:37] [DEBUG][WS => Shard 0] [CONNECT]
+    Gateway    : wss://gateway.discord.gg/
+    Version    : 9
+    Encoding   : json
+    Compression: none
+[1.10 @ 12:43:37] [DEBUG][WS => Shard 0] Setting a HELLO timeout for 20s.
+[1.10 @ 12:43:37] [DEBUG][WS => Shard 0] [CONNECTED] Took 213ms
+[1.10 @ 12:43:37] [DEBUG][WS => Shard 0] Clearing the HELLO timeout.
+[1.10 @ 12:43:37] [DEBUG][WS => Shard 0] Setting a heartbeat interval for 41250ms.
+[1.10 @ 12:43:37] [DEBUG][WS => Shard 0] [IDENTIFY] Shard 0/1 with intents: 1539
+[1.10 @ 12:43:38] [DEBUG][WS => Shard 0] [READY] Session 8c6bc69abd388697747bb6112d1c311e.
+[1.10 @ 12:43:38] [DEBUG][WS => Shard 0] [ReadyHeartbeat] Sending a heartbeat.
+[1.10 @ 12:43:38] [DEBUG][WS => Shard 0] Shard received all its guilds. Marking as fully ready.
+[1.10 @ 12:43:38] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 231ms.
+[1.10 @ 12:44:19] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 12:44:19] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 135ms.
+[1.10 @ 12:45:0] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 12:45:0] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 138ms.
+[1.10 @ 12:45:41] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 12:45:41] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 135ms.
+[1.10 @ 12:46:22] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 12:46:23] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 141ms.
+[1.10 @ 12:47:4] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 12:47:4] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 136ms.
+[1.10 @ 12:47:45] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 12:47:45] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 152ms.
+[1.10 @ 12:48:26] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 12:48:27] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 363ms.
+[1.10 @ 12:49:7] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 12:49:8] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 134ms.
+[1.10 @ 12:49:49] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 12:49:49] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 147ms.
+[1.10 @ 12:50:30] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 12:50:30] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 138ms.
+[1.10 @ 12:51:11] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 12:51:11] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 143ms.
+[1.10 @ 12:51:53] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 12:51:53] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 161ms.
+[1.10 @ 12:52:34] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 12:52:34] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 136ms.
+[1.10 @ 12:53:15] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 12:53:15] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 161ms.
+[1.10 @ 12:53:56] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 12:53:56] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 167ms.
+[1.10 @ 12:54:38] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 12:54:38] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 142ms.
+[1.10 @ 12:55:19] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 12:55:19] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 178ms.
+[1.10 @ 12:56:0] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 12:56:0] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 160ms.
+[1.10 @ 12:56:41] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 12:56:41] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 144ms.
+[1.10 @ 12:57:23] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 12:57:23] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 157ms.
+[1.10 @ 12:58:4] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 12:58:4] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 157ms.
+[1.10 @ 12:58:45] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 12:58:45] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 138ms.
+[1.10 @ 12:59:26] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 12:59:26] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 139ms.
+[1.10 @ 13:0:8] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 13:0:8] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 136ms.
+[1.10 @ 13:0:49] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 13:0:49] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 177ms.
+[1.10 @ 13:1:30] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 13:1:30] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 155ms.
+[1.10 @ 13:2:11] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 13:2:12] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 135ms.
+[1.10 @ 13:2:53] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 13:2:53] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 140ms.
+[1.10 @ 13:3:34] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 13:3:34] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 174ms.
+[1.10 @ 13:4:15] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 13:4:15] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 243ms.
+[1.10 @ 13:4:56] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 13:4:57] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 137ms.
+[1.10 @ 13:5:38] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 13:5:38] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 150ms.
+[1.10 @ 13:6:19] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 13:6:19] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 141ms.
+[1.10 @ 13:7:0] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 13:7:0] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 140ms.
+[1.10 @ 13:7:41] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 13:7:42] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 140ms.
+[1.10 @ 13:8:23] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 13:8:23] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 143ms.
+[1.10 @ 13:9:4] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 13:9:4] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 148ms.
+[1.10 @ 13:9:45] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 13:9:45] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 159ms.
+[1.10 @ 13:10:26] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 13:10:27] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 136ms.
+[1.10 @ 13:11:8] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 13:11:8] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 168ms.
+[1.10 @ 13:11:49] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 13:11:49] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 145ms.
+[1.10 @ 13:12:30] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 13:12:30] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 152ms.
+[1.10 @ 13:13:11] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 13:13:12] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 135ms.
+[1.10 @ 13:13:53] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 13:13:53] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 136ms.
+[1.10 @ 13:14:34] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 13:14:34] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 160ms.
+[1.10 @ 13:15:15] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 13:15:15] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 138ms.
+[1.10 @ 13:15:56] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 13:15:57] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 139ms.
+[1.10 @ 13:16:38] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 13:16:38] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 139ms.
+[1.10 @ 13:17:19] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 13:17:19] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 135ms.
+[1.10 @ 13:18:0] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 13:18:0] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 143ms.
+[1.10 @ 13:18:42] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 13:18:42] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 143ms.
+[1.10 @ 13:19:23] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 13:19:23] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 140ms.
+[1.10 @ 13:20:4] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 13:20:4] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 140ms.
+[1.10 @ 13:20:45] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 13:20:45] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 142ms.
+[1.10 @ 13:21:27] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 13:21:27] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 151ms.
+[1.10 @ 13:22:8] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 13:22:8] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 136ms.
+[1.10 @ 13:22:49] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 13:22:49] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 149ms.
+[1.10 @ 13:23:30] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 13:23:30] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 144ms.
+[1.10 @ 13:24:12] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 13:24:12] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 189ms.
+[1.10 @ 13:24:53] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 13:24:53] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 143ms.
+[1.10 @ 13:25:34] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 13:25:34] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 146ms.
+[1.10 @ 13:26:15] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 13:26:16] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 162ms.
+[1.10 @ 13:26:57] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 13:26:57] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 140ms.
+[1.10 @ 13:27:38] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 13:27:38] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 147ms.
+[1.10 @ 13:28:19] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 13:28:19] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 154ms.
+[1.10 @ 13:29:0] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 13:29:1] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 140ms.
+[1.10 @ 13:29:42] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 13:29:42] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 138ms.
+[1.10 @ 13:30:23] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 13:30:23] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 144ms.
+[1.10 @ 13:31:4] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 13:31:4] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 144ms.
+[1.10 @ 13:31:45] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 13:31:46] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 149ms.
+[1.10 @ 13:32:27] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 13:32:27] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 140ms.
+[1.10 @ 13:33:8] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 13:33:8] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 135ms.
+[1.10 @ 13:33:49] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.10 @ 13:33:49] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 146ms.
+[1.13 @ 1:8:3] [DEBUG]Provided token: NTc5MDM2ODgzNjc0MzMzMTg1.XN8UHw.***************************
+[1.13 @ 1:8:3] [DEBUG]Preparing to connect to the gateway...
+[1.13 @ 1:8:3] [DEBUG][WS => Manager] Fetched Gateway Information
+    URL: wss://gateway.discord.gg
+    Recommended Shards: 1
+[1.13 @ 1:8:3] [DEBUG][WS => Manager] Session Limit Information
+    Total: 1000
+    Remaining: 1000
+[1.13 @ 1:8:3] [DEBUG][WS => Manager] Spawning shards: 0
+[1.13 @ 1:8:3] [DEBUG][WS => Shard 0] [CONNECT]
+    Gateway    : wss://gateway.discord.gg/
+    Version    : 9
+    Encoding   : json
+    Compression: none
+[1.13 @ 1:8:3] [DEBUG][WS => Shard 0] Setting a HELLO timeout for 20s.
+[1.13 @ 1:8:3] [DEBUG][WS => Shard 0] [CONNECTED] Took 183ms
+[1.13 @ 1:8:3] [DEBUG][WS => Shard 0] Clearing the HELLO timeout.
+[1.13 @ 1:8:3] [DEBUG][WS => Shard 0] Setting a heartbeat interval for 41250ms.
+[1.13 @ 1:8:3] [DEBUG][WS => Shard 0] [IDENTIFY] Shard 0/1 with intents: 1539
+[1.13 @ 1:8:3] [DEBUG][WS => Shard 0] [READY] Session 2894ec02ff3fddcbfe3a9e4a97eea34c.
+[1.13 @ 1:8:3] [DEBUG][WS => Shard 0] [ReadyHeartbeat] Sending a heartbeat.
+[1.13 @ 1:8:4] [DEBUG][WS => Shard 0] Shard received all its guilds. Marking as fully ready.
+[1.13 @ 1:8:12] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 8064ms.
+[1.13 @ 1:8:44] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.13 @ 1:8:45] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 132ms.
+[1.13 @ 1:12:49] [DEBUG]Provided token: NTc5MDM2ODgzNjc0MzMzMTg1.XN8UHw.***************************
+[1.13 @ 1:12:49] [DEBUG]Preparing to connect to the gateway...
+[1.13 @ 1:12:50] [DEBUG][WS => Manager] Fetched Gateway Information
+    URL: wss://gateway.discord.gg
+    Recommended Shards: 1
+[1.13 @ 1:12:50] [DEBUG][WS => Manager] Session Limit Information
+    Total: 1000
+    Remaining: 999
+[1.13 @ 1:12:50] [DEBUG][WS => Manager] Spawning shards: 0
+[1.13 @ 1:12:50] [DEBUG][WS => Shard 0] [CONNECT]
+    Gateway    : wss://gateway.discord.gg/
+    Version    : 9
+    Encoding   : json
+    Compression: none
+[1.13 @ 1:12:50] [DEBUG][WS => Shard 0] Setting a HELLO timeout for 20s.
+[1.13 @ 1:12:50] [DEBUG][WS => Shard 0] [CONNECTED] Took 193ms
+[1.13 @ 1:12:50] [DEBUG][WS => Shard 0] Clearing the HELLO timeout.
+[1.13 @ 1:12:50] [DEBUG][WS => Shard 0] Setting a heartbeat interval for 41250ms.
+[1.13 @ 1:12:50] [DEBUG][WS => Shard 0] [IDENTIFY] Shard 0/1 with intents: 1539
+[1.13 @ 1:12:50] [DEBUG][WS => Shard 0] [READY] Session cb1f453b0ac48b5b30a4cf2c72cbe742.
+[1.13 @ 1:12:50] [DEBUG][WS => Shard 0] [ReadyHeartbeat] Sending a heartbeat.
+[1.13 @ 1:12:50] [DEBUG][WS => Shard 0] Shard received all its guilds. Marking as fully ready.
+[1.13 @ 1:12:50] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 180ms.
+[1.13 @ 1:13:7] [DEBUG]Provided token: NTc5MDM2ODgzNjc0MzMzMTg1.XN8UHw.***************************
+[1.13 @ 1:13:7] [DEBUG]Preparing to connect to the gateway...
+[1.13 @ 1:13:7] [DEBUG][WS => Manager] Fetched Gateway Information
+    URL: wss://gateway.discord.gg
+    Recommended Shards: 1
+[1.13 @ 1:13:7] [DEBUG][WS => Manager] Session Limit Information
+    Total: 1000
+    Remaining: 998
+[1.13 @ 1:13:7] [DEBUG][WS => Manager] Spawning shards: 0
+[1.13 @ 1:13:7] [DEBUG][WS => Shard 0] [CONNECT]
+    Gateway    : wss://gateway.discord.gg/
+    Version    : 9
+    Encoding   : json
+    Compression: none
+[1.13 @ 1:13:7] [DEBUG][WS => Shard 0] Setting a HELLO timeout for 20s.
+[1.13 @ 1:13:7] [DEBUG][WS => Shard 0] [CONNECTED] Took 182ms
+[1.13 @ 1:13:7] [DEBUG][WS => Shard 0] Clearing the HELLO timeout.
+[1.13 @ 1:13:7] [DEBUG][WS => Shard 0] Setting a heartbeat interval for 41250ms.
+[1.13 @ 1:13:7] [DEBUG][WS => Shard 0] [IDENTIFY] Shard 0/1 with intents: 1539
+[1.13 @ 1:13:7] [DEBUG][WS => Shard 0] [READY] Session 65bcb4ee0dec0b9beb4a6442a88cceb1.
+[1.13 @ 1:13:7] [DEBUG][WS => Shard 0] [ReadyHeartbeat] Sending a heartbeat.
+[1.13 @ 1:13:7] [DEBUG][WS => Shard 0] Shard received all its guilds. Marking as fully ready.
+[1.13 @ 1:13:9] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 1450ms.
+[1.13 @ 1:13:9] [DEBUG]Hit a 429 while executing a request.
+    Global  : false
+    Method  : post
+    Path    : /applications/579036883674333185/commands
+    Route   : /applications/:id/commands
+    Limit   : 5
+    Timeout : 2928ms
+    Sublimit: None
+[1.13 @ 1:13:46] [DEBUG]Provided token: NTc5MDM2ODgzNjc0MzMzMTg1.XN8UHw.***************************
+[1.13 @ 1:13:46] [DEBUG]Preparing to connect to the gateway...
+[1.13 @ 1:13:47] [DEBUG][WS => Manager] Fetched Gateway Information
+    URL: wss://gateway.discord.gg
+    Recommended Shards: 1
+[1.13 @ 1:13:47] [DEBUG][WS => Manager] Session Limit Information
+    Total: 1000
+    Remaining: 997
+[1.13 @ 1:13:47] [DEBUG][WS => Manager] Spawning shards: 0
+[1.13 @ 1:13:47] [DEBUG][WS => Shard 0] [CONNECT]
+    Gateway    : wss://gateway.discord.gg/
+    Version    : 9
+    Encoding   : json
+    Compression: none
+[1.13 @ 1:13:47] [DEBUG][WS => Shard 0] Setting a HELLO timeout for 20s.
+[1.13 @ 1:13:47] [DEBUG][WS => Shard 0] [CONNECTED] Took 185ms
+[1.13 @ 1:13:47] [DEBUG][WS => Shard 0] Clearing the HELLO timeout.
+[1.13 @ 1:13:47] [DEBUG][WS => Shard 0] Setting a heartbeat interval for 41250ms.
+[1.13 @ 1:13:47] [DEBUG][WS => Shard 0] [IDENTIFY] Shard 0/1 with intents: 1539
+[1.13 @ 1:13:47] [DEBUG][WS => Shard 0] [READY] Session 7d303a5347a6f97758241704a55bbe7c.
+[1.13 @ 1:13:47] [DEBUG][WS => Shard 0] [ReadyHeartbeat] Sending a heartbeat.
+[1.13 @ 1:13:47] [DEBUG][WS => Shard 0] Shard received all its guilds. Marking as fully ready.
+[1.13 @ 1:14:4] [DEBUG]Provided token: NTc5MDM2ODgzNjc0MzMzMTg1.XN8UHw.***************************
+[1.13 @ 1:14:4] [DEBUG]Preparing to connect to the gateway...
+[1.13 @ 1:14:4] [DEBUG][WS => Manager] Fetched Gateway Information
+    URL: wss://gateway.discord.gg
+    Recommended Shards: 1
+[1.13 @ 1:14:4] [DEBUG][WS => Manager] Session Limit Information
+    Total: 1000
+    Remaining: 996
+[1.13 @ 1:14:4] [DEBUG][WS => Manager] Spawning shards: 0
+[1.13 @ 1:14:4] [DEBUG][WS => Shard 0] [CONNECT]
+    Gateway    : wss://gateway.discord.gg/
+    Version    : 9
+    Encoding   : json
+    Compression: none
+[1.13 @ 1:14:4] [DEBUG][WS => Shard 0] Setting a HELLO timeout for 20s.
+[1.13 @ 1:14:4] [DEBUG][WS => Shard 0] [CONNECTED] Took 179ms
+[1.13 @ 1:14:4] [DEBUG][WS => Shard 0] Clearing the HELLO timeout.
+[1.13 @ 1:14:4] [DEBUG][WS => Shard 0] Setting a heartbeat interval for 41250ms.
+[1.13 @ 1:14:4] [DEBUG][WS => Shard 0] [IDENTIFY] Shard 0/1 with intents: 1539
+[1.13 @ 1:14:4] [DEBUG][WS => Shard 0] [READY] Session d2e9c28db9cc39188d72104b75d2dc2a.
+[1.13 @ 1:14:4] [DEBUG][WS => Shard 0] [ReadyHeartbeat] Sending a heartbeat.
+[1.13 @ 1:14:4] [DEBUG][WS => Shard 0] Shard received all its guilds. Marking as fully ready.
+[1.13 @ 1:14:4] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 179ms.
+[1.13 @ 1:14:45] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.13 @ 1:14:45] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 135ms.
+[1.13 @ 1:15:17] [DEBUG]Provided token: NTc5MDM2ODgzNjc0MzMzMTg1.XN8UHw.***************************
+[1.13 @ 1:15:17] [DEBUG]Preparing to connect to the gateway...
+[1.13 @ 1:15:17] [DEBUG][WS => Manager] Fetched Gateway Information
+    URL: wss://gateway.discord.gg
+    Recommended Shards: 1
+[1.13 @ 1:15:17] [DEBUG][WS => Manager] Session Limit Information
+    Total: 1000
+    Remaining: 995
+[1.13 @ 1:15:17] [DEBUG][WS => Manager] Spawning shards: 0
+[1.13 @ 1:15:17] [DEBUG][WS => Shard 0] [CONNECT]
+    Gateway    : wss://gateway.discord.gg/
+    Version    : 9
+    Encoding   : json
+    Compression: none
+[1.13 @ 1:15:17] [DEBUG][WS => Shard 0] Setting a HELLO timeout for 20s.
+[1.13 @ 1:15:17] [DEBUG][WS => Shard 0] [CONNECTED] Took 182ms
+[1.13 @ 1:15:22] [DEBUG]Provided token: NTc5MDM2ODgzNjc0MzMzMTg1.XN8UHw.***************************
+[1.13 @ 1:15:22] [DEBUG]Preparing to connect to the gateway...
+[1.13 @ 1:15:22] [DEBUG][WS => Manager] Fetched Gateway Information
+    URL: wss://gateway.discord.gg
+    Recommended Shards: 1
+[1.13 @ 1:15:22] [DEBUG][WS => Manager] Session Limit Information
+    Total: 1000
+    Remaining: 995
+[1.13 @ 1:15:22] [DEBUG][WS => Manager] Spawning shards: 0
+[1.13 @ 1:15:22] [DEBUG][WS => Shard 0] [CONNECT]
+    Gateway    : wss://gateway.discord.gg/
+    Version    : 9
+    Encoding   : json
+    Compression: none
+[1.13 @ 1:15:22] [DEBUG][WS => Shard 0] Setting a HELLO timeout for 20s.
+[1.13 @ 1:15:23] [DEBUG][WS => Shard 0] [CONNECTED] Took 176ms
+[1.13 @ 1:15:23] [DEBUG][WS => Shard 0] Clearing the HELLO timeout.
+[1.13 @ 1:15:23] [DEBUG][WS => Shard 0] Setting a heartbeat interval for 41250ms.
+[1.13 @ 1:15:23] [DEBUG][WS => Shard 0] [IDENTIFY] Shard 0/1 with intents: 1539
+[1.13 @ 1:15:23] [DEBUG][WS => Shard 0] [READY] Session d1214641119a90e7eb1dfbc254316668.
+[1.13 @ 1:15:23] [DEBUG][WS => Shard 0] [ReadyHeartbeat] Sending a heartbeat.
+[1.13 @ 1:15:23] [DEBUG][WS => Shard 0] Shard received all its guilds. Marking as fully ready.
+[1.13 @ 1:15:24] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 1047ms.
+[1.13 @ 1:16:4] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.13 @ 1:16:4] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 137ms.
+[1.13 @ 1:18:32] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.13 @ 1:18:32] [DEBUG][WS => Shard 0] [CLOSE]
+    Event Code: 1000
+    Clean     : true
+    Reason    : 
+[1.13 @ 1:18:32] [DEBUG][WS => Shard 0] Clearing the heartbeat interval.
+[1.13 @ 1:18:32] [DEBUG][WS => Shard 0] WS State: CLOSED
+[1.13 @ 1:18:32] [DEBUG][WS => Shard 0] [CONNECT]
+    Gateway    : wss://gateway.discord.gg/
+    Version    : 9
+    Encoding   : json
+    Compression: none
+[1.13 @ 1:18:32] [DEBUG][WS => Shard 0] Setting a HELLO timeout for 20s.
+[1.13 @ 1:18:32] [DEBUG][WS => Shard 0] [CONNECTED] Took 188ms
+[1.13 @ 1:18:32] [DEBUG][WS => Shard 0] Clearing the HELLO timeout.
+[1.13 @ 1:18:32] [DEBUG][WS => Shard 0] Setting a heartbeat interval for 41250ms.
+[1.13 @ 1:18:32] [DEBUG][WS => Shard 0] [IDENTIFY] Shard 0/1 with intents: 1539
+[1.13 @ 1:18:32] [DEBUG][WS => Shard 0] [READY] Session c43c149544ff5cd7ebb308d9d3844f91.
+[1.13 @ 1:18:32] [DEBUG][WS => Shard 0] [ReadyHeartbeat] Sending a heartbeat.
+[1.13 @ 1:18:32] [DEBUG][WS => Shard 0] Shard received all its guilds. Marking as fully ready.
+[1.13 @ 1:18:32] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 152ms.
+[1.13 @ 1:19:13] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.13 @ 1:19:13] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 132ms.
+[1.13 @ 1:19:55] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.13 @ 1:19:55] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 140ms.
+[1.13 @ 1:20:36] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.13 @ 1:20:36] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 134ms.
+[1.13 @ 1:26:16] [DEBUG]Provided token: NTc5MDM2ODgzNjc0MzMzMTg1.XN8UHw.***************************
+[1.13 @ 1:26:16] [DEBUG]Preparing to connect to the gateway...
+[1.13 @ 1:26:16] [DEBUG][WS => Manager] Fetched Gateway Information
+    URL: wss://gateway.discord.gg
+    Recommended Shards: 1
+[1.13 @ 1:26:16] [DEBUG][WS => Manager] Session Limit Information
+    Total: 1000
+    Remaining: 993
+[1.13 @ 1:26:16] [DEBUG][WS => Manager] Spawning shards: 0
+[1.13 @ 1:26:16] [DEBUG][WS => Shard 0] [CONNECT]
+    Gateway    : wss://gateway.discord.gg/
+    Version    : 9
+    Encoding   : json
+    Compression: none
+[1.13 @ 1:26:16] [DEBUG][WS => Shard 0] Setting a HELLO timeout for 20s.
+[1.13 @ 1:26:16] [DEBUG][WS => Shard 0] [CONNECTED] Took 192ms
+[1.13 @ 1:26:16] [DEBUG][WS => Shard 0] Clearing the HELLO timeout.
+[1.13 @ 1:26:16] [DEBUG][WS => Shard 0] Setting a heartbeat interval for 41250ms.
+[1.13 @ 1:26:16] [DEBUG][WS => Shard 0] [IDENTIFY] Shard 0/1 with intents: 1539
+[1.13 @ 1:26:16] [DEBUG][WS => Shard 0] [READY] Session 8fb0dbb29e53f7e06ac886b4edd36216.
+[1.13 @ 1:26:16] [DEBUG][WS => Shard 0] [ReadyHeartbeat] Sending a heartbeat.
+[1.13 @ 1:26:17] [DEBUG][WS => Shard 0] Shard received all its guilds. Marking as fully ready.
+[1.13 @ 1:26:17] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 167ms.
+[1.13 @ 1:26:57] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.13 @ 1:26:58] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 138ms.
+[1.13 @ 1:27:39] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.13 @ 1:27:39] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 137ms.
+[1.13 @ 1:28:20] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.13 @ 1:28:20] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 134ms.
+[1.13 @ 1:29:1] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.13 @ 1:29:1] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 138ms.
+[1.13 @ 1:29:42] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.13 @ 1:29:43] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 136ms.
+[1.13 @ 1:30:24] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.13 @ 1:30:24] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 136ms.
+[1.13 @ 1:31:5] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.13 @ 1:31:5] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 133ms.
+[1.13 @ 1:31:46] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.13 @ 1:31:46] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 134ms.
+[1.13 @ 1:32:27] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.13 @ 1:32:28] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 144ms.
+[1.13 @ 1:33:9] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.13 @ 1:33:9] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 138ms.
+[1.13 @ 1:33:50] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.13 @ 1:33:50] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 133ms.
+[1.13 @ 1:34:31] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.13 @ 1:34:31] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 132ms.
+[1.13 @ 1:35:12] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.13 @ 1:35:13] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 132ms.
+[1.13 @ 1:35:54] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.13 @ 1:35:54] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 135ms.
+[1.13 @ 1:36:35] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.13 @ 1:36:35] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 133ms.
+[1.13 @ 1:37:16] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.13 @ 1:37:16] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 135ms.
+[1.13 @ 1:37:57] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.13 @ 1:37:58] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 135ms.
+[1.13 @ 1:38:39] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.13 @ 1:38:39] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 138ms.
+[1.13 @ 1:39:20] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.13 @ 1:39:20] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 137ms.
+[1.13 @ 1:40:1] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.13 @ 1:40:1] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 134ms.
+[1.13 @ 1:40:42] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.13 @ 1:40:43] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 140ms.
+[1.13 @ 1:41:14] [DEBUG]Provided token: NTc5MDM2ODgzNjc0MzMzMTg1.XN8UHw.***************************
+[1.13 @ 1:41:14] [DEBUG]Preparing to connect to the gateway...
+[1.13 @ 1:41:14] [DEBUG][WS => Manager] Fetched Gateway Information
+    URL: wss://gateway.discord.gg
+    Recommended Shards: 1
+[1.13 @ 1:41:14] [DEBUG][WS => Manager] Session Limit Information
+    Total: 1000
+    Remaining: 992
+[1.13 @ 1:41:14] [DEBUG][WS => Manager] Spawning shards: 0
+[1.13 @ 1:41:14] [DEBUG][WS => Shard 0] [CONNECT]
+    Gateway    : wss://gateway.discord.gg/
+    Version    : 9
+    Encoding   : json
+    Compression: none
+[1.13 @ 1:41:14] [DEBUG][WS => Shard 0] Setting a HELLO timeout for 20s.
+[1.13 @ 1:41:14] [DEBUG][WS => Shard 0] [CONNECTED] Took 195ms
+[1.13 @ 1:41:14] [DEBUG][WS => Shard 0] Clearing the HELLO timeout.
+[1.13 @ 1:41:14] [DEBUG][WS => Shard 0] Setting a heartbeat interval for 41250ms.
+[1.13 @ 1:41:14] [DEBUG][WS => Shard 0] [IDENTIFY] Shard 0/1 with intents: 1539
+[1.13 @ 1:41:14] [DEBUG][WS => Shard 0] [READY] Session 58a46a38d6374b6cde617ec8b19fa25c.
+[1.13 @ 1:41:14] [DEBUG][WS => Shard 0] [ReadyHeartbeat] Sending a heartbeat.
+[1.13 @ 1:41:15] [DEBUG][WS => Shard 0] Shard received all its guilds. Marking as fully ready.
+[1.13 @ 1:41:15] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 204ms.
+[1.13 @ 1:41:55] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.13 @ 1:41:56] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 177ms.
+[1.13 @ 1:42:37] [DEBUG][WS => Shard 0] [HeartbeatTimer] Sending a heartbeat.
+[1.13 @ 1:42:37] [DEBUG][WS => Shard 0] Heartbeat acknowledged, latency of 135ms.
